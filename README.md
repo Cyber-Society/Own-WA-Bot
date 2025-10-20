@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 𝐎𝐖𝐍 - 𝐖𝐀 - 𝐁𝐎𝐓 💀  
+# ⚙️ 𝐎𝐖𝐍 - 𝐖𝐀 - 𝐁𝐎𝐓 ⚙️ 
 ### ⚙️ 𝐂𝐫𝐞𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐎𝐰𝐧 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 𝐖𝐢𝐭𝐡 𝐄𝐚𝐬𝐞 ⚙️  
 
 > Build and design your **own WhatsApp Bot** with your name, your commands, and your style — powered by **ChatGPT** and Node.js ⚡  
@@ -31,7 +31,3 @@ with their **own name, credits, and commands**.
 
 ---
 
-## 🧾 𝐋𝐈𝐂𝐄𝐍𝐒𝐄
-
-This project is licensed under the **MIT License** — feel free to copy, modify, and distribute  
-your own version with credit.
