@@ -117,3 +117,17 @@ Here’s what makes it awesome 👇
 ✨Create, Code, and Own Your Future✨
 
 ꧁──────────────────────꧂
+
+---
+
+### ✨ **Thank You for Visiting OWN-WA-BOT**
+
+Made with ❤️ by **Cyber Society (Muhammad Tayyab)**  
+If you like this repo, don’t forget to ⭐ it and share it with your dev friends 🚀  
+
+📢 **Stay Connected:**  
+[![YouTube](https://img.shields.io/badge/Subscribe-Cyber%20Society-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@CyberSociety-T)  
+[![GitHub](https://img.shields.io/badge/Follow-Tayyab%20on%20GitHub-black?logo=github&style=for-the-badge)](https://github.com/TAYYAB-Exploits)
+
+> _“Build your own bot, rule your own world — The Cyber Way ⚔️”_
+> “𝙒𝙝𝙚𝙣 𝙘𝙤𝙙𝙚 𝙗𝙚𝙘𝙤𝙢𝙚𝙨 𝙖𝙧𝙩 — 𝘽𝙊𝙏𝙎 𝘽𝙀𝘾𝙊𝙈𝙀 𝙇𝙀𝙂𝙀𝙉𝘿𝙎.” ⚡
