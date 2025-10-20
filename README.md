@@ -131,3 +131,7 @@ If you like this repo, don’t forget to ⭐ it and share it with your dev frien
 
 > _“Build your own bot, rule your own world — The Cyber Way ⚔️”_
 > “𝙒𝙝𝙚𝙣 𝙘𝙤𝙙𝙚 𝙗𝙚𝙘𝙤𝙢𝙚𝙨 𝙖𝙧𝙩 — 𝘽𝙊𝙏𝙎 𝘽𝙀𝘾𝙊𝙈𝙀 𝙇𝙀𝙂𝙀𝙉𝘿𝙎.” ⚡
+
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
